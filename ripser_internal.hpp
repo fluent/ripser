@@ -86,4 +86,4 @@ void ripser_run_from_compressed_lower(
     float ratio,
     interval_recorder recorder);
 
-#endif /* RIPSER_WRAPPER_H */
+#endif /* RIPSER_INTERNAL_H */
